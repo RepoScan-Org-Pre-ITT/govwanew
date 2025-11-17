@@ -12,7 +12,7 @@ Golang versiong : >= 1.11 ff
 Installing guide : https://www.digitalocean.com/community/tutorials/how-to-install-go-1-6-on-ubuntu-16-04
 
 #### Setup
-```
+```c
 git clone https://github.com/0c34/govwa.git
 
 git pull (to update)
