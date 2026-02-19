@@ -1,5 +1,5 @@
 Server running at port :8082
-Open this URL http://192.168.56.101:8082/ on your browser to access GoVWAc
+Open this URL http://192.168.56.101:8082/ on your browser to access GoVWAc test
 
 ```
 Open the URL to access GoVWA and follow the setup instruction to create database and tables
